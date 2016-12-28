@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=org.sang.HelloServiceAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=main.java.org.ty.HelloServiceAutoConfiguration

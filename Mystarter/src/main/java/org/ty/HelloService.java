@@ -1,8 +1,5 @@
-package org.sang;
+package org.ty;
 
-/**
- * Created by sang on 16-12-19.
- */
 public class HelloService {
     private String msg;
     public String sayHello(){

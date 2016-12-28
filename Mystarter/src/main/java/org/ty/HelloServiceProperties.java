@@ -1,10 +1,7 @@
-package org.sang;
+package org.ty;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-/**
- * Created by sang on 16-12-19.
- */
 @ConfigurationProperties(prefix = "hello")
 public class HelloServiceProperties {
     private static final String MSG = "world";
