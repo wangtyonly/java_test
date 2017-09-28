@@ -3,7 +3,8 @@ package org.ty;
 public class HelloService {
     //测试测试提交
     //测试 cherry-pick
-    private String msg;
+// git stash    
+private String msg;
     public String sayHello(){
         return "hello " + msg;
     }
