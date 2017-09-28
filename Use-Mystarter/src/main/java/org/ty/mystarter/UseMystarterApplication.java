@@ -10,7 +10,7 @@ import org.ty.HelloService;
 @RestController
 @SpringBootApplication
 public class UseMystarterApplication {
-
+	//测试 cherry-pick
 	@Autowired
 	private HelloService helloService;
 
