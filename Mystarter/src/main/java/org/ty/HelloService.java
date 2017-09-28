@@ -1,6 +1,7 @@
 package org.ty;
 
 public class HelloService {
+    //测试测试提交
     private String msg;
     public String sayHello(){
         return "hello " + msg;
@@ -13,4 +14,5 @@ public class HelloService {
     public void setMsg(String msg) {
         this.msg = msg;
     }
+
 }
